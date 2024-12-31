@@ -1,7 +1,9 @@
 # KripSimpleAPI
 How to use KripSimpleAPI
 ---
-Put KripSimpleAPI.java in the same folder as the main .java file of your mod (and api for 1.20.4)
+Put KripSimpleAPI.java,(in zip archive) in the same folder as the main .java file of your mod, you can also download the mod from modrinth or compile the mod yourself (and api for 1.20.4)
+
+https://modrinth.com/project/kripsimpleapi
  
  # _**If you want an item, then write this in the main .java file of your mod:**_
  ```KripSimpleAPI.registerItem("example_item", ItemGroup.MISC);```
